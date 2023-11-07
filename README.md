@@ -37,4 +37,5 @@ In this project, two ATmega32 microcontrollers are used to establish communicati
 2. Flash the second microcontroller (`main.c`) code onto another ATmega32 microcontroller.
 3. Connect the Tx of UC1 with Rx of UC2.
 
-"# USART_EXTI_Communication-ATmega32" 
+## Note
+My proteus version of simulation does not work correctly, So better try it on the hardware instead, it works fine on the hardware
